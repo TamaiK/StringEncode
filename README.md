@@ -17,7 +17,7 @@ System.out.println(text);
 A5B10CD9E2F5G
 ```
 
-## 課題 1. 文字列圧縮
+## 課題 2. 文字列展開
 課題 1 で圧縮した文字列を展開する StringsExpander クラスを作成しなさい
 
 ### Javaコード
